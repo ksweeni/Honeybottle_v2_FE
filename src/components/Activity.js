@@ -18,7 +18,7 @@ function Activity() {
 
   useEffect(() => {
     const fetchData = async () => {
-      const response = await axios.get('http://localhost:4000/Activity', {
+      const response = await axios.get('http://52.62.142.249:4000/Activity', {
         params: {
           _limit: TOTAL_ITEMS, // 총 항목 개수를 지정합니다.
         },

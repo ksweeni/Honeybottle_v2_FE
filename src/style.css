@@ -11,10 +11,9 @@ div.container {
     max-width: 100%;
 }
 
+
 div.g-2.row {
-
     justify-content: space-around;
-
 }
 
 div.city-layout {
@@ -23,7 +22,6 @@ div.city-layout {
     top: 23.375px;
     left: 47px;
     margin-top: 31px;
-
 }
 
 div.profile-layout {

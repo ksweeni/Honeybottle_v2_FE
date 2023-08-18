@@ -24,17 +24,11 @@ function Splash() {
             <section className="section">
           <div className="container d-flex h-100 align-items-center justify-content-center vh-100"> {/* Add container and Flex classes */}
               <div className="splash-content text-center">
-                <h1>허니 보틀 스플래시 화면입니다</h1>
+                <h1 className='splash-title'>박주가리</h1>
+                <h2 className='splash-subtitle'>고운 긴 솜털이 바람에 날려 씨앗을 퍼뜨려 '먼 여행'을 떠납니다.</h2>
                 <div className="d-flex justify-content-between"> {/* Use d-flex and justify-content-between */}
-                  <Link to="/Login">
-                    <button className="btn btn-primary me-3">로그인</button>
-                  </Link>
-                  <button className="btn btn-primary me-3">회원가입</button>
                   <Link to="/Main">
-                    <button className="btn btn-primary me-3">게시판</button>
-                  </Link>
-                  <Link to="/Admin">
-                    <button className="btn btn-primary me-3">관리자 모드</button>
+                    <button className="btn btn-primary me-3">바로가기</button>
                   </Link>
                 </div>
               </div>
