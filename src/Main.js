@@ -20,7 +20,7 @@ function Main() {
         <body style={{ backgroundColor: "rgba(244, 243, 250, 1)" }}>
           <link rel="stylesheet" href="./font.css" />
           <div className="container">
-            <p className="text-center fs-1 mb-4 text-primary p-5">메뉴선택</p>
+            <h4 className="text-center fs-1 mb-4 text-primary p-5" style={{color : "rgb(190, 75, 188)"}}>메뉴선택</h4>
             <div className="row justify-content-center p-5">
               <div className="col-sm-4 text-center">
                 <Link to="/Activity">

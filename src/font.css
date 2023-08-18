@@ -28,8 +28,9 @@
   select,
   input,
   button {
-    font-family: "Pretendard", sans-serif;
+    font-family: 'Noto Serif KR', serif;
     font-weight: 800px;
+    
   }
 
   h1.splash-title {
@@ -71,7 +72,7 @@
   }
 
   h4.profile-name {
-    font-family: "Pretendard", sans-serif;
+    font-family: 'Noto Serif KR', serif;
     font-size: 15px;
     font-weight: 600;
     line-height: 24px;

@@ -35,7 +35,8 @@ body.login-body {
     width: 350px;
     height: 63.78378677368164px;
     border-radius: 9px;
-    margin-top: 25px;
+    margin-top: 40px;
+    font-size: 20px;
     box-shadow: 0px 4px 30px 0px rgba(77, 71, 195, 0.4);
 
   }

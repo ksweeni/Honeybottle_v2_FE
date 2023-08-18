@@ -12,7 +12,7 @@ function SideBar({title}) {
                   >
                     <div className="nav-logo-layout">
                       <a className="nav-logo" href="#">
-                        🍯 {title}
+                        🌸 {title}
                       </a>
                     </div>
                     <nav className="list-group">
