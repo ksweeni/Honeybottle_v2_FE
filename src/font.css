@@ -33,15 +33,15 @@
   }
 
   h1.splash-title {
-    color:orange;
+    color :rgb(190, 75, 188);
     font-size:300px;
     font-family: 'Noto Serif KR', serif;
-    text-shadow: 0px 3px 5px orange;
+
   }
 
   h2.splash-subtitle {
     color:black;
-    font-size:50;
+    font-size:50px;
     font-weight: 100px;
     font-family: 'Noto Serif KR', serif;
   }

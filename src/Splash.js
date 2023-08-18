@@ -25,7 +25,7 @@ function Splash() {
           <div className="container d-flex h-100 align-items-center justify-content-center vh-100"> {/* Add container and Flex classes */}
               <div className="splash-content text-center">
                 <h1 className='splash-title'>박주가리</h1>
-                <h2 className='splash-subtitle'>고운 긴 솜털이 바람에 날려 씨앗을 퍼뜨려 '먼 여행'을 떠납니다.</h2>
+                <h2 className='splash-subtitle'>고운 긴 솜털이 바람에 날려 씨앗을 퍼뜨려 🌸먼 여행🌸을 떠납니다.</h2>
                 <div className="d-flex justify-content-between"> {/* Use d-flex and justify-content-between */}
                   <Link to="/Main">
                     <button className="btn btn-primary me-3">바로가기</button>
